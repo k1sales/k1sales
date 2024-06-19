@@ -1,6 +1,6 @@
-oie
+**oie**
 
-Meu nome é Kiara
+Meu nome é **Kiara**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
