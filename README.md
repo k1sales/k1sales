@@ -1,7 +1,12 @@
-**oie**
+**Ola, tudo bem? 🤗**
 
 Meu nome é **Kiara**
 
-Estou estudando na Alura
-Estou me desenvolvendo na linguagem JavaScript
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+• Sou estudante na [Alura](https://www.alura.com.br) 📖
+
+
+• Estou me desenvolvendo na linguagem JavaScript🥰
+
+• Para contato @Saleskr / _instagram_
+
+![](https://tenor.com/kKqNWVDj2A9.gif)
